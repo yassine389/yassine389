@@ -1,15 +1,24 @@
-## Hi there 👋
-👋 Welcome to Dr. Omrani Mohamed Amine's GitHub Profile
-Hello! I'm Dr. Omrani Mohamed Amine, a passionate developer from Tunisia 🇹🇳. Welcome to my GitHub profile! Here you can find my repositories, projects, and contributions.
+👋 Hi there, welcome to my GitHub!
+I'm Yassine389 — a passionate Electrical Engineering student from Tunisia 🇹🇳
+🚀 About Me
+
+🎓 Student in Electrical Engineering
+
+🌍 Location: Tunisia
+
+⚡ Interests: Automation, PLC programming, and electrical design
+
+📚 Always learning and working on new projects!
 
 🛠️ Technologies & Tools
-Languages: Python 🐍, JavaScript 🌐, C++ 💻
-Frameworks: Django 🌟, React ⚛️
-Tools: Git 🦸, Docker 🐳, VSCode 💻
-🚀 About Me
-👨‍⚕️ Profession: Software Developer & Researcher
-🌍 Location: Tunisia
-📚 Interests: AI & Machine Learning 🤖, Data Science 📊, Open Source Contributions 🌍
-🎓 Education: [Your Degree/Field] from [Your Institution]
+
+Languages & Software:
+
+TIA Portal
+
+EPLAN
+
+C++
+
 
 
