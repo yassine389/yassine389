@@ -1,16 +1,15 @@
 ## Hi there 👋
+👋 Welcome to Dr. Omrani Mohamed Amine's GitHub Profile
+Hello! I'm Dr. Omrani Mohamed Amine, a passionate developer from Tunisia 🇹🇳. Welcome to my GitHub profile! Here you can find my repositories, projects, and contributions.
 
-<!--
-**yassine389/yassine389** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Technologies & Tools
+Languages: Python 🐍, JavaScript 🌐, C++ 💻
+Frameworks: Django 🌟, React ⚛️
+Tools: Git 🦸, Docker 🐳, VSCode 💻
+🚀 About Me
+👨‍⚕️ Profession: Software Developer & Researcher
+🌍 Location: Tunisia
+📚 Interests: AI & Machine Learning 🤖, Data Science 📊, Open Source Contributions 🌍
+🎓 Education: [Your Degree/Field] from [Your Institution]
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
